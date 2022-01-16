@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+### I am Cagin Agirdemir
+
+- :man_technologist: I'm interested in :drum: and :desktop_computer: 
+
+- :student: I’m currently a _Learner_ at **École 42**
+
+
+
 <!--
 **caginagirdemir/caginagirdemir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
