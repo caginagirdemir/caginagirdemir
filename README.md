@@ -2,9 +2,11 @@
 
 ### I am Cagin Agirdemir
 
-- :man_technologist: I'm interested in :drum: and :desktop_computer: 
+- :man_technologist: I'm interested in :musical_note: and :desktop_computer: 
 
 - :student: I’m currently a _Learner_ at **École 42**
+
+
 
 
 
