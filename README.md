@@ -18,7 +18,6 @@
 <h3> Languages and Tools ⚔️</h3>
 <p>
   <img alt="C" src="https://img.shields.io/badge/-Language-%234d4d4d?style=flat-square&logo=c&logoColor=ffffff&labelColor=%234d4d4d&color=%236e6e6e">
-  <img alt="PHP Hypertext Preprocessor" src="https://img.shields.io/badge/-PHP-%23787CB5?style=flat-square&logo=php&logoColor=FFFFFF&labelColor=%23787CB5&color=%23B0B3D6">
   <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-%23e34c26?style=flat-square&logo=css3&logoColor=ffffff&labelColor=%23e34c26&color=%23f06529">
   <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-%23264de4?style=flat-square&logo=css3&logoColor=ffffff&labelColor=%23264de4&color=%232965f1">
   <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-%23563d7c?style=flat-square&logo=bootstrap&logoColor=ffffff&labelColor=%23563d7c&color=%23704ea3">
