@@ -25,9 +25,6 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/caginagirdemir/)](https://www.linkedin.com/in/caginagirdemir/)
 ![Gmail Badge](https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:caginagirdemir@gmail.com"/)
 
-[![eliarisalvares's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=caginagirdemir&hide_border=true&theme=calm)](https://github.com/caginagirdemir?tab=repositories)
-
-
 <!--
 **caginagirdemir/caginagirdemir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
