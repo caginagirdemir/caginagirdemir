@@ -1,6 +1,4 @@
-### Hi there 👋
-
-### I am Cagin Agirdemir
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hi+there;I+am+Cagin+Agirdemir)](https://git.io/typing-svg)
 
 - :man_technologist: I'm interested in :musical_note: and :desktop_computer: 
 
