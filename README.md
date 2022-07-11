@@ -9,10 +9,6 @@
 
 <h3> Tools ⚔️</h3>
 <p>
-  <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-%23e34c26?style=flat-square&logo=css3&logoColor=ffffff&labelColor=%23e34c26&color=%23f06529">
-  <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-%23264de4?style=flat-square&logo=css3&logoColor=ffffff&labelColor=%23264de4&color=%232965f1">
-  <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-%23563d7c?style=flat-square&logo=bootstrap&logoColor=ffffff&labelColor=%23563d7c&color=%23704ea3">
-  <br>
   <img alt="GIT" src="https://img.shields.io/badge/Tools-GIT-%23F1502F?style=flat-square&logo=git&logocolor=ffffff">
   <img alt="Vim" src="https://img.shields.io/badge/Tools-Vim-%23019733?style=flat-square&logo=vim">
   <img alt="VSCode" src="https://img.shields.io/badge/IDE-VS%20Code-%23007ACC?style=flat-square&logo=Visual-studio-code">
