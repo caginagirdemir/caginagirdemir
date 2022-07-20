@@ -14,10 +14,6 @@
   <img alt="VSCode" src="https://img.shields.io/badge/IDE-VS%20Code-%23007ACC?style=flat-square&logo=Visual-studio-code">
 </p>
 
-📫 How to reach me:
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/caginagirdemir/)](https://www.linkedin.com/in/caginagirdemir/)
-![Gmail Badge](https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:caginagirdemir@gmail.com/)
 
 <!--
 **caginagirdemir/caginagirdemir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
