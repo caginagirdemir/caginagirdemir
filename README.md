@@ -2,7 +2,7 @@
 
 - :man_technologist: I'm interested in :musical_note: and :desktop_computer: 
 
-- :student: I’m currently a _Learner_ at **École 42**
+- :student: I’m a Member at **École 42**
 
 - :earth_africa: caginagirdemir.github.io
 
