@@ -4,8 +4,6 @@
 
 - :student: I’m a Member at **École 42**
 
-- :earth_africa: caginagirdemir.github.io
-
 
 <h3> Tools ⚔️</h3>
 <p>
