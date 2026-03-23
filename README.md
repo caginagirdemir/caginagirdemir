@@ -4,8 +4,6 @@
 
 - :student: I’m a Member at **École 42**
 
-https://caginagirdemir.github.io
-
 <h3> Tools ⚔️</h3>
 <p>
   <img alt="GIT" src="https://img.shields.io/badge/Tools-GIT-%23F1502F?style=flat-square&logo=git&logocolor=ffffff">
